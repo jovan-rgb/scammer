@@ -1,6 +1,6 @@
 const {default: axios} = require("axios")
 
-const url = "https://api.telegram.org/bot6861974788:AAH_AbVplVpEG3XTRhVIgbMVqIeT-_y7vPQ/sendMessage?parse_mode=markdown&chat_id=6951548817&text=test"
+const url = "https://api.telegram.org/bot6310749297:AAH1jVb4xvCYJKDalO3YndNUw4gFmuN897s/sendMessage?parse_mode=markdown&chat_id=6652532780&text=KONTOL"
 
 async function sendMessage() {
     try {
